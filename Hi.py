@@ -1,5 +1,1 @@
-print('Hi')     
-
-
-
-
+print("Hi")
